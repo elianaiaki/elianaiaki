@@ -10,26 +10,26 @@
 
 👩‍💻 &nbsp;Actualmente estoy estudiando una Tecnicatura en Desarrollo de Software en la Universidad del Chubut
 
-💡 &nbsp;Me gusta aprender nuevas tecnologías y crear soluciones prácticas, desde programas en Python hasta proyectos web.  
-🎓 &nbsp;Tengo formación en desarrollo web (HTML, CSS, JavaScript, PHP) y programación en Python y Java.  
-🌱 &nbsp;Actualmente estoy profundizando en Programación Orientada a Objetos, testing y estructuras de datos.
+&nbsp;Me gusta aprender nuevas tecnologías y crear soluciones prácticas, desde programas en Python hasta proyectos web.  
+&nbsp;Tengo formación en desarrollo web (HTML, CSS, JavaScript, PHP) y programación en Python y Java.  
+&nbsp;Actualmente estoy profundizando en Programación Orientada a Objetos, testing y estructuras de datos.
 
-🛠️ &nbsp;He hecho proyectos de universidad como:
+&nbsp;He hecho proyectos de universidad como:
 - Sistemas de gestión con archivos binarios y pickle
 - Modelado de juegos aplicando POO
 - Implementación de algoritmos de ordenamiento (Bubble, Insertion, Selection)
 - Actualmente estoy en proyecto de Juego utilizando liberia de PyGame!
-📊 &nbsp;También tengo conocimientos en Excel (manejo de datos, funciones y gráficos).
+&nbsp;También tengo conocimientos en Excel (manejo de datos, funciones y gráficos).
 
-💼 &nbsp;Cuento con experiencia en atención al cliente, lo que me ayuda a entender mejor las necesidades de los usuarios.  
+&nbsp;Cuento con experiencia en atención al cliente, lo que me ayuda a entender mejor las necesidades de los usuarios.  
 
-🚀 &nbsp;Me interesa seguir creciendo en:
+&nbsp;Me interesa seguir creciendo en:
 - Desarrollo backend  
 - Testing y buenas prácticas  
 - Arquitectura de software  
 
-💬 &nbsp;Estoy abierta a colaborar en proyectos, aprender en equipo o simplemente charlar sobre programación.  
-📌 &nbsp;Siempre buscando mejorar y seguir aprendiendo 💪
+&nbsp;Estoy abierta a colaborar en proyectos, aprender en equipo o simplemente charlar sobre programación.  
+&nbsp;Siempre buscando mejorar y seguir aprendiendo 💪
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -52,7 +52,7 @@
 <br>
 
 
-### 🧰 &nbsp;Version Controll & Tools 
+### &nbsp;Version Controll & Tools 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
@@ -63,7 +63,7 @@
 
 <br>
 
-🤝🏻 &nbsp;Contactame
+&nbsp;Contactame
 
 <p align="center">
 <a href="https://www.instagram.com/eli_iaki3/"><img width="50" height="50" alt="icono-instagram" src="https://github.com/user-attachments/assets/a4af4911-7daa-483d-bd05-0ef6467fbb43" /></a>
