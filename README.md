@@ -1,4 +1,5 @@
-<img width="851" height="315" alt="White Simple Woman Photo Sale or Business Women&#39;s Beauty Facebook Cover (1)" src="https://github.com/user-attachments/assets/2f7e99c0-9d05-46f5-87c8-491f14adb1e3" />
+<img width="1376" height="768" alt="WhatsApp Image 2026-05-30 at 16 49 52" src="https://github.com/user-attachments/assets/b1e94b8a-5de8-421d-ac07-ac4ca54154ec" />
+
 
 <h2 align="left">Hola! Soy Eli Salvo</h2>
 
