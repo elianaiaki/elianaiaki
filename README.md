@@ -1,72 +1,89 @@
 <img width="1376" height="768" alt="WhatsApp Image 2026-05-30 at 16 49 52" src="https://github.com/user-attachments/assets/b1e94b8a-5de8-421d-ac07-ac4ca54154ec" />
 
 
-<h2 align="left">Hola! Soy Eli Salvo</h2>
+<h2 align="left">Hola! Soy Eliana Salvo</h2>
 
-<br>
+### Desarrolladora de Software Jr. | Estudiante de Desarrollo de Software
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi
+Actualmente estudio la **Tecnicatura en Desarrollo de Software en la Universidad del Chubut**.
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+Estoy orientando mi formación hacia el **desarrollo backend y de aplicaciones web**, trabajando principalmente con Python y Django, junto con bases de datos y herramientas de desarrollo.
 
-👩‍💻 &nbsp;Actualmente estoy estudiando una Tecnicatura en Desarrollo de Software en la Universidad del Chubut
+## Tecnologías y conocimientos
 
-&nbsp;Me gusta aprender nuevas tecnologías y crear soluciones prácticas, desde programas en Python hasta proyectos web.  
-&nbsp;Tengo formación en desarrollo web (HTML, CSS, JavaScript, PHP) y programación en Python y Java.  
-&nbsp;Actualmente estoy profundizando en Programación Orientada a Objetos, testing y estructuras de datos.
+### Programación
+- Python
+- Java
+- C
+- JavaScript
+- PHP
+- Programación Orientada a Objetos
+- Estructuras de datos
+- Algoritmos de ordenamiento
 
-&nbsp;He hecho proyectos de universidad como:
-- Sistemas de gestión con archivos binarios y pickle
-- Modelado de juegos aplicando POO
-- Implementación de algoritmos de ordenamiento (Bubble, Insertion, Selection)
-- Actualmente estoy en proyecto de Juego utilizando liberia de PyGame!
-&nbsp;También tengo conocimientos en Excel (manejo de datos, funciones y gráficos).
+### Desarrollo web
+- Django
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- MVC
+- ORM
 
-&nbsp;Cuento con experiencia en atención al cliente, lo que me ayuda a entender mejor las necesidades de los usuarios.  
+### Bases de datos
+- SQL
+- PostgreSQL
+- Modelado de bases de datos
+- Relaciones entre entidades
+- Restricciones e integridad de datos
 
-&nbsp;Me interesa seguir creciendo en:
-- Desarrollo backend  
-- Testing y buenas prácticas  
-- Arquitectura de software  
+### Herramientas
+- Git
+- GitHub
+- Docker
+- Linux / Ubuntu
+- pgAdmin
+- DBeaver
 
-&nbsp;Estoy abierta a colaborar en proyectos, aprender en equipo o simplemente charlar sobre programación.  
-&nbsp;Siempre buscando mejorar y seguir aprendiendo 💪
+### Ingeniería de Software
+- Análisis de requerimientos
+- Casos de uso
+- UML
+- Modelado de sistemas
+- Arquitectura y diseño de software
+- Testing y buenas prácticas
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+## Proyectos destacados
 
-### 🛠 &nbsp;Tech Stack
+### MovieCali
+Aplicación web desarrollada con **Python y Django**, trabajando con modelos, relaciones entre entidades, ORM, PostgreSQL, reseñas y desarrollo de interfaces web.
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+### Peleando por la Nota
+Videojuego desarrollado en **Python utilizando Pygame**, aplicando Programación Orientada a Objetos y el patrón MVC.
 
-<br>
+### Sistema de gestión para manicura
+Proyecto orientado a resolver necesidades de un negocio real, aplicando los conocimientos adquiridos durante mi formación en desarrollo de software.
 
+### MovieCali — versión inicial
+Proyecto web desarrollado con **HTML, CSS y JavaScript**, que posteriormente evolucionó hacia una aplicación utilizando Django.
 
-### 🗃 &nbsp;Databases
+## Actualmente profundizando en
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+- Desarrollo backend con Python y Django
+- Bases de datos y PostgreSQL
+- ORM y diseño de modelos
+- Testing
+- Arquitectura de software
+- Git y buenas prácticas de desarrollo
+- Docker
 
-<br>
+## Objetivo profesional
 
+Busco seguir creciendo como **desarrolladora de software**, participar en proyectos reales y continuar desarrollando experiencia en backend, bases de datos y desarrollo web.
 
-### &nbsp;Version Controll & Tools 
+También estoy abierta a colaborar en proyectos, aprender en equipo y compartir conocimientos.
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
-![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)&nbsp;
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
+## Otros conocimientos
 
-<br>
-
-&nbsp;Contactame
-
-<p align="center">
-<a href="https://www.instagram.com/eli_iaki3/"><img width="50" height="50" alt="icono-instagram" src="https://github.com/user-attachments/assets/a4af4911-7daa-483d-bd05-0ef6467fbb43" /></a>
-  <a href="mailto:elianajaqueline06@gmail.com"><img width="40" height="40" alt="gmail" src="https://github.com/user-attachments/assets/10da8159-1864-46d5-83f9-acf92a8350e5" /></a>
-</p>
+- Excel: manejo de datos, funciones y gráficos.
+- Experiencia en atención al cliente, desarrollando comunicación y comprensión de las necesidades de los usuarios.
