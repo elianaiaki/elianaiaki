@@ -1,6 +1,3 @@
-<img width="1376" height="768" alt="WhatsApp Image 2026-05-30 at 16 49 52" src="https://github.com/user-attachments/assets/b1e94b8a-5de8-421d-ac07-ac4ca54154ec" />
-
-
 <h2 align="left">Hola! Soy Eliana Salvo</h2>
 
 ### Desarrolladora de Software Jr. | Estudiante de Desarrollo de Software
