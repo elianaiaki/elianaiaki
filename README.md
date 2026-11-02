@@ -2,7 +2,7 @@
 
 ### Desarrolladora de Software Jr. | Estudiante de Desarrollo de Software
 
-Actualmente estudio la **Tecnicatura en Desarrollo de Software en la Universidad del Chubut**.
+Actualmente estudio la **Tecnicatura en Desarrollo de Software**
 
 Estoy orientando mi formación hacia el **desarrollo backend y de aplicaciones web**, trabajando principalmente con Python y Django, junto con bases de datos y herramientas de desarrollo.
 
